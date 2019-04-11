@@ -1,0 +1,15 @@
+Package: BigDFnMPlot
+Type: Package
+Title: Big Data Frame and Matrix Plot
+Version: 0.1.0
+Author: Hao Li
+Maintainer: Hao Li <lhrcplanes@qq.com>
+Description: The package covers functions to render plots as tiff files.
+    The functions is designed to work with large matrices and data frames,
+    initially for plotting chaotic system.
+    Also providing transferring functions to do matplot. Facet plot, vector fields
+    phase diagrams will be added later.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Depends: tiff
